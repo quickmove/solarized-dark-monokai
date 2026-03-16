@@ -1,7 +1,7 @@
 {
-  "name": "solarized-dark-monikai",
-  "displayName": "Solarized Monikai (Dark)",
-  "description": "A customized Solarized Dark theme with monikai-inspired syntax colors",
+  "name": "solarized-dark-monokai",
+  "displayName": "Solarized Monokai (Dark)",
+  "description": "A customized Solarized Dark theme with monokai-inspired syntax colors",
   "version": "1.0.0",
   "publisher": "Blockmatrix",
   "engines": {
@@ -11,12 +11,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Solarized Dark Monikai",
+        "label": "Solarized Dark Monokai",
         "uiTheme": "vs-dark",
-        "path": "./themes/solarized-dark-monikai.json"
+        "path": "./themes/solarized-dark-monokai.json"
       }
     ]
   },
-  "keywords": ["solarized", "dark", "theme", "monikai"],
+  "keywords": ["solarized", "dark", "theme", "monokai"],
   "repository": ""
 }
