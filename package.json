@@ -3,7 +3,7 @@
   "displayName": "Solarized Monokai (Dark)",
   "description": "A customized Solarized Dark theme with monokai-inspired syntax colors",
   "version": "1.0.0",
-  "publisher": "Blockmatrix",
+  "publisher": "linjing",
   "engines": {
     "vscode": "^1.70.0"
   },
