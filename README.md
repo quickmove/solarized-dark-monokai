@@ -4,19 +4,16 @@ A VS Code dark theme that combines Solarized Dark's elegant colors with Monokai-
 
 ## Preview
 
+![Screenshot](./screenshot.png)
+
 The theme features:
 - Solarized Dark's signature cyan, blue, and yellow palette for UI elements
 - Monokai-style vibrant syntax highlighting for code
 - Carefully designed contrast for long coding sessions
 
+
+
 ## Installation
-
-### From VSIX File
-
-1. Download the `.vsix` file from the [Releases](https://github.com/quickmove/solarized-dark-monokai/releases) page
-2. In VS Code, go to Extensions view (`Ctrl+Shift+X` or `Cmd+Shift+X`)
-3. Click the `...` menu in the top right
-4. Select "Install from VSIX..."
 
 ### From Source
 
