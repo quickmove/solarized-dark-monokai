@@ -1,0 +1,22 @@
+{
+  "name": "solarized-dark-monikai",
+  "displayName": "Solarized Monikai (Dark)",
+  "description": "A customized Solarized Dark theme with monikai-inspired syntax colors",
+  "version": "1.0.0",
+  "publisher": "Blockmatrix",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Solarized Dark Monikai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/solarized-dark-monikai.json"
+      }
+    ]
+  },
+  "keywords": ["solarized", "dark", "theme", "monikai"],
+  "repository": ""
+}
