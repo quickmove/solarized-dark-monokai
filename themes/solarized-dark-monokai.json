@@ -180,7 +180,7 @@
       "name": "Built-in constant",
       "scope": ["constant.language", "meta.preprocessor"],
       "settings": {
-        "foreground": "#B58900"
+        "foreground": "#ff7085"
       }
     },
     {
