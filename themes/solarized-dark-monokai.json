@@ -26,7 +26,7 @@
     "list.inactiveSelectionBackground": "#00445488",
     "list.dropBackground": "#00445488",
     "list.highlightForeground": "#1ebcc5",
-    "editor.background": "#002732",
+    "editor.background": "#062730",
     "editor.foreground": "#839496",
     "editorWidget.background": "#00212B",
     "editorCursor.foreground": "#D30102",
@@ -129,7 +129,7 @@
       "name": "Variable",
       "scope": ["variable.language", "variable.other"],
       "settings": {
-        "foreground": "#66D9EF"
+        "foreground": "#ffffffbf"
       }
     },
     {
@@ -207,7 +207,9 @@
     {
       "name": "Function argument",
       "scope": "variable.parameter",
-      "settings": {}
+      "settings": {
+        "foreground": "#66D9EF"
+      }
     },
     {
       "name": "Tag name",
@@ -389,7 +391,7 @@
       "name": "Keyword - Language",
       "scope": "keyword.language",
       "settings": {
-        "foreground": "#bce0ff"
+        "foreground": "#ff7085"
       }
     },
     {

@@ -2,7 +2,7 @@
   "name": "solarized-dark-monokai",
   "displayName": "Solarized Monokai (Dark)",
   "description": "A customized Solarized Dark theme with monokai-inspired syntax colors",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "publisher": "linjing",
   "engines": {
     "vscode": "^1.70.0"
